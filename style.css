@@ -1,0 +1,38 @@
+@media all {
+body {
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    background-color: White: hsl(0, 0%, 100%);
+    font-family: 'Outfit', sans-serif;
+    width: 300px;
+    border-radius: 10px;
+    padding-top: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+img {
+    width: 280px;
+    border-radius: 10px;
+}
+
+p {
+    font-size: 15px;
+    color: Light gray: hsl(212, 45%, 89%); 
+    margin-bottom: 35px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.attribution {
+    visibility: hidden;
+}
+}
+
+@media handheld {
+    
+}
